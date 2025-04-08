@@ -1,4 +1,6 @@
 .DS_Store
 .vscode/
 *.log
+/Library/
+/Desktop/chat_app
 
